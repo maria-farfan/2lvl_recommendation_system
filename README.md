@@ -13,4 +13,5 @@
 - models: модель с весами NCF
 
 Необходимо также установить модуль recommenders: https://github.com/microsoft/recommenders 
+
 За данными обращаться в тг: @maria_farfan
