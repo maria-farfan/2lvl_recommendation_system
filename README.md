@@ -14,4 +14,4 @@
 
 Необходимо также установить модуль recommenders: https://github.com/microsoft/recommenders 
 
-За данными обращаться в тг: @maria_farfan
+По всем вопросам обращаться в тг: @maria_farfan
